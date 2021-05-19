@@ -1,0 +1,18 @@
+nav{width: 1300px;height: 48px;background-color:  #dadada}
+nav ul{align:navbar-right}
+nav li{list-style-type: none;float: left;background-color: #dadada;height:100%;line-height: 48px;}
+nav a{text-decoration:none; color:ivory;font-size: 25px;display: block;padding: 0 40px;font-weight: bolder;}
+nav a:hover{background-color: rgb(255, 255, 248);color:rgb(11, 50, 51)}
+body{background-image: url(.//images/106.jpg);}
+h1{color: white;margin-left: 60px;margin-top: 20px;font-size: 50px;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+#aa{font-size: 30px;color: rgb(194, 216, 224);margin-left: 500px;}
+p{color:floralwhite;font-weight: bold;font-size: larger;}
+h3{color:floralwhite;font-weight: bold;font-size:x-large;margin-left: 540px;}
+#bb li p img{width: 400px;height: auto;}
+#bb li p{margin-left: 400px;}
+#bb li{list-style-type: none;}
+#cc li{list-style-type: none;}
+#cc li img{width: 400px;}
+.ee{margin-left: 500px;}
+.ff{height: 300px;width: 1200px;margin-left: 150px;border-width: 10px;border-style: none;}
+.gg{ font-size: 25px;margin-top: 20px;margin-left: 30px;font-weight: bold;color: blanchedalmond;}
